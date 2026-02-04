@@ -1,24 +1,24 @@
 {
   "main": {
-    "id": "84c384ec3be5a4b9",
+    "id": "d82863e6b4dcce10",
     "type": "split",
     "children": [
       {
-        "id": "be529a688ddb005a",
+        "id": "c81d8cef5ca7bad4",
         "type": "tabs",
         "children": [
           {
-            "id": "9db566dbb36936f7",
+            "id": "79dbfbe46283969f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2026/Feb/3rd !.md",
+                "file": "ObsidianMd/ObsidianMd/Feb/4th !.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3rd !"
+              "title": "4th !"
             }
           }
         ]
@@ -27,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "02510bcade348f3e",
+    "id": "83229d438996f1eb",
     "type": "split",
     "children": [
       {
-        "id": "933eaf774be9fc94",
+        "id": "cc277dee8576ea8c",
         "type": "tabs",
         "children": [
           {
-            "id": "c137094c4fa3d1cf",
+            "id": "b840a19d28b54519",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +48,7 @@
             }
           },
           {
-            "id": "d0daa4ba9b784cd3",
+            "id": "918d728bd6fea62b",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +65,7 @@
             }
           },
           {
-            "id": "8da44219033db483",
+            "id": "054e915a5f8b8557",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -81,20 +81,20 @@
     "width": 300
   },
   "right": {
-    "id": "1fbe5a31a1eadf09",
+    "id": "22c970e21f746de7",
     "type": "split",
     "children": [
       {
-        "id": "2a9e5c30e580f732",
+        "id": "53259927dc736b2d",
         "type": "tabs",
         "children": [
           {
-            "id": "b75c64d5551b99ec",
+            "id": "0ed68c570dd3c1d7",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ObsidianMd/2026/Feb/4th !.md",
+                "file": "ObsidianMd/ObsidianMd/Feb/4th !.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,12 +108,12 @@
             }
           },
           {
-            "id": "46cdd5064332a8bb",
+            "id": "0cb6a7cddc936afb",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ObsidianMd/2026/Feb/4th !.md",
+                "file": "ObsidianMd/ObsidianMd/Feb/4th !.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -122,7 +122,7 @@
             }
           },
           {
-            "id": "f11f644a7ee1b90b",
+            "id": "eb7250e5813060db",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -137,7 +137,7 @@
             }
           },
           {
-            "id": "45dce97f2c6b3669",
+            "id": "bbfbd56b842ea470",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -151,12 +151,12 @@
             }
           },
           {
-            "id": "e8d2a89d875e34a3",
+            "id": "60c81d8518d9439d",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "ObsidianMd/2026/Feb/4th !.md",
+                "file": "ObsidianMd/ObsidianMd/Feb/4th !.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -184,15 +184,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c137094c4fa3d1cf",
+  "active": "79dbfbe46283969f",
   "lastOpenFiles": [
-    "Security+ Prep.md",
-    "ObsidianMd/2026/Feb/4th !.md",
-    "ObsidianMd/2026/Feb/3rd !.md",
-    "2026/Feb/3rd of Feb.md",
-    "ObsidianMd/2026/Feb",
-    "ObsidianMd/2026",
+    "ObsidianMd/ObsidianMd/Feb/3rd !.md",
+    "ObsidianMd/ObsidianMd",
     "ObsidianMd",
-    "Untitled.base"
+    "Untitled.base",
+    "ObsidianMd/ObsidianMd/Feb/4th !.md"
   ]
 }
