@@ -1,0 +1,195 @@
+{
+  "main": {
+    "id": "d82863e6b4dcce10",
+    "type": "split",
+    "children": [
+      {
+        "id": "c81d8cef5ca7bad4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "79dbfbe46283969f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ObsidianMd/ObsidianMd/Feb/3rd !.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3rd !"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "83229d438996f1eb",
+    "type": "split",
+    "children": [
+      {
+        "id": "cc277dee8576ea8c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b840a19d28b54519",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "918d728bd6fea62b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "054e915a5f8b8557",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "22c970e21f746de7",
+    "type": "split",
+    "children": [
+      {
+        "id": "53259927dc736b2d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0ed68c570dd3c1d7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "ObsidianMd/ObsidianMd/Feb/3rd !.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 3rd !"
+            }
+          },
+          {
+            "id": "0cb6a7cddc936afb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "ObsidianMd/ObsidianMd/Feb/3rd !.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 3rd !"
+            }
+          },
+          {
+            "id": "eb7250e5813060db",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "bbfbd56b842ea470",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "60c81d8518d9439d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "ObsidianMd/ObsidianMd/Feb/3rd !.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 3rd !"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "b840a19d28b54519",
+  "lastOpenFiles": [
+    "ObsidianMd/ObsidianMd",
+    "ObsidianMd",
+    "Untitled.base",
+    "ObsidianMd/ObsidianMd/Feb/3rd !.md",
+    "ObsidianMd/ObsidianMd/Feb/4th !.md"
+  ]
+}
